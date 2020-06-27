@@ -1,0 +1,14 @@
+{
+   "op": "one_hot_encoder",
+   "attributes": {
+      "size": {
+         "long": 3
+      },
+      "handle_invalid": {
+         "string": "error"
+      },
+      "drop_last": {
+         "boolean": false
+      }
+   }
+}

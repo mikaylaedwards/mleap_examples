@@ -1,0 +1,17 @@
+{
+   "name": "one_hot_encoder_cffc7122-b3e1-11ea-ad0c-b88584bc1fe7",
+   "shape": {
+      "inputs": [
+         {
+            "name": "col_a_label_le",
+            "port": "input"
+         }
+      ],
+      "outputs": [
+         {
+            "name": "col_a_label_one_hot_encoded",
+            "port": "output"
+         }
+      ]
+   }
+}

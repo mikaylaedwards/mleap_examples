@@ -1,0 +1,16 @@
+{
+   "op": "string_indexer",
+   "attributes": {
+      "labels": {
+         "type": "list",
+         "string": [
+            "a",
+            "b",
+            "c"
+         ]
+      },
+      "nullable_input": {
+         "boolean": false
+      }
+   }
+}

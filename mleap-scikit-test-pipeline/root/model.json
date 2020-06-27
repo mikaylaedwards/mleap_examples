@@ -1,0 +1,12 @@
+{
+   "op": "pipeline",
+   "attributes": {
+      "nodes": {
+         "type": "list",
+         "string": [
+            "string_indexer_cffc698e-b3e1-11ea-ad0c-b88584bc1fe7",
+            "one_hot_encoder_cffc7122-b3e1-11ea-ad0c-b88584bc1fe7"
+         ]
+      }
+   }
+}

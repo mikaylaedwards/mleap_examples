@@ -1,0 +1,17 @@
+{
+   "name": "string_indexer_cffc698e-b3e1-11ea-ad0c-b88584bc1fe7",
+   "shape": {
+      "inputs": [
+         {
+            "name": "col_a",
+            "port": "input"
+         }
+      ],
+      "outputs": [
+         {
+            "name": "col_a_label_le",
+            "port": "output"
+         }
+      ]
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "name": "vector_assembler_cffc6574-b3e1-11ea-ad0c-b88584bc1fe7",
+   "shape": {
+      "inputs": [
+         {
+            "name": "col_a",
+            "port": "input0"
+         }
+      ],
+      "outputs": [
+         {
+            "name": "imputed_features",
+            "port": "output"
+         }
+      ]
+   }
+}

@@ -1,0 +1,14 @@
+{
+   "op": "vector_assembler",
+   "attributes": {
+      "input_shapes": {
+         "type": "list",
+         "data_shape": [
+            {
+               "base": "scalar",
+               "isNullable": false
+            }
+         ]
+      }
+   }
+}
